@@ -10,7 +10,7 @@
 #Re-edit the /etc/inittab file and revert your previous modification. Change id:5:initdefault back to id:3:initdefault.
 #https://exemen.wordpress.com/2011/01/16/mail-server-setup-guide-for-rhelcentos-5/
 
-HOSTNAME=1l11l1lll1l1l1l1l1l1llll1lll1l1ll111l1ll1ll1l11l1ll111l1lll1l1l1l1lll1l1l1l1ll1ll1111l
+#HOSTNAME=1l11l1lll1l1l1l1l1l1llll1lll1l1ll111l1ll1ll1l11l1ll111l1lll1l1l1l1lll1l1l1l1ll1ll1111l
 SSHPORT=8081
 USER=ant
 #PASSWORD=cdc
